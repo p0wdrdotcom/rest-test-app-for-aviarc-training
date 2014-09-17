@@ -1,0 +1,12 @@
+<screen xmlns:action="urn:aviarc:widget:com.aviarc.toronto.widget.core.action:1" xmlns:app="urn:aviarc:widget:application">
+    <record-table position="relative" height="133" margin-top="20" margin-left="20" dataset="deals" width="1250">
+        <column display-field="id" />
+        <column display-field="origin" />
+        <column display-field="destination" />
+        <column display-field="price" />
+        <column display-field="terms" />
+        <column display-field="template" />
+        <column display-field="image" />
+    </record-table>    
+            
+</screen>

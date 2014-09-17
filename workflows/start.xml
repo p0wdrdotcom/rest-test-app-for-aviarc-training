@@ -1,0 +1,4 @@
+<workflow>
+    <dataset name="deals" databroker="deals" query="get-deals" />
+    <show-screen name="main" />
+</workflow>
